@@ -1,0 +1,5 @@
+{
+	"masterFile": "./data/master.csv",
+	"sourceFolder": "./data/sources",
+	"destinationFolder": "./data/outputs"
+}

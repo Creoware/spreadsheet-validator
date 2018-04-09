@@ -1,0 +1,11 @@
+{
+  "name": "spreadsheet-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Creoware",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.0.0"
+  }
+}
